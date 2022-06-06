@@ -65,8 +65,10 @@ The line men do about 17 pushups whereas the skilled players do 50 pushups. The 
 ```{r}
 t.test(pushups~position,data=mydata)
 ```
-The chances of seeing a result like this if there really isnt a difference between the line and skill players is .000009421 
+The chances of seeing a result like this if there really isnt a difference between the line and skill players is .000009421  
+  
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+  
+Based on the data we have concluded that the skilled players do almost three times as many pushups as the line men.
